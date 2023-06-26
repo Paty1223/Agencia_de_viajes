@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UiJRIygCmRexhlRmbEuop0PUznw3gb3HJDeI9p7ly2QEFvdKf+mrok8cSFtRZ44VHj+4So6EwtsYHR2PkCvBaQ==",
+  "dgSpecHash": "pw3/7cyVJpUBjRltBo8JLhNVfbFTi0gnN3jRUuDjgiUcqkLsYndYQlv+RdS7mhxgR7OQwrPTKrXiVwWAr+XAEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Web.API\\Web.API.csproj",
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\MINEDUCYT\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

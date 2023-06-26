@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Domain\\Domain.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Domain\\Domain.csproj": {
+    "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes\\ViajeEasyPOS\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\Viaje\\Agencia_de_viajes-1\\ViajeEasyPOs\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
